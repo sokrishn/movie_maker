@@ -1,0 +1,423 @@
+Connected. Server generated request ID =  SPTR.1228.C271A157
+............................
+{"type":"partial","id":"0.0","recognition":"Il.","translation":"He.","audioStreamPosition":26240,"audioSizeBytes":4480,"audioTimeOffset":8200000,"audioTimeSize":1400000} 
+
+....
+{"type":"final","id":"0","recognition":"Voilà donc.","translation":"So that's it.","audioStreamPosition":26240,"audioSizeBytes":26240,"audioTimeOffset":9300000,"audioTimeSize":8200000} 
+
+...
+TTS segment #1 begins (file name: 'tts_1.wav').
+
+
+TTS segment #1 ends.'. 
+
+............
+{"type":"partial","id":"1.0","recognition":"Je.","translation":"I.","audioStreamPosition":115520,"audioSizeBytes":3520,"audioTimeOffset":36100000,"audioTimeSize":1100000} 
+
+.........
+{"type":"partial","id":"1.4","recognition":"Même pour vous.","translation":"Even for you.","audioStreamPosition":115520,"audioSizeBytes":24960,"audioTimeOffset":36100000,"audioTimeSize":7800000} 
+
+...........
+{"type":"partial","id":"1.9","recognition":"Même pour vous. Je sais pas ou charge.","translation":"Even for you. I don't know or charge.","audioStreamPosition":115520,"audioSizeBytes":63360,"audioTimeOffset":36100000,"audioTimeSize":19800000} 
+
+..........
+{"type":"partial","id":"1.17","recognition":"Même pour vous. Je vais pas vous charger à l'arrière, comme un cheval.","translation":"Even for you. I'm not going to load you in the back, like a horse.","audioStreamPosition":115520,"audioSizeBytes":97920,"audioTimeOffset":36100000,"audioTimeSize":30600000} 
+
+....
+{"type":"final","id":"1","recognition":"Même pour vous. Je vais pas vous charger à l'arrière, comme un cheval.","translation":"Even for you. I'm not going to load you in the back, like a horse.","audioStreamPosition":115520,"audioSizeBytes":105280,"audioTimeOffset":36100000,"audioTimeSize":32900000} 
+
+..
+TTS segment #2 begins (file name: 'tts_2.wav').
+
+
+TTS segment #2 ends.'. 
+
+........................
+{"type":"partial","id":"2.0","recognition":"Il.","translation":"He.","audioStreamPosition":309440,"audioSizeBytes":3840,"audioTimeOffset":96700000,"audioTimeSize":1200000} 
+
+...........
+{"type":"partial","id":"2.3","recognition":"Ça, c'est quoi.","translation":"That's what.","audioStreamPosition":309440,"audioSizeBytes":19840,"audioTimeOffset":96700000,"audioTimeSize":6200000} 
+
+.
+{"type":"final","id":"2","recognition":"Ça, c'est quoi.","translation":"That's what.","audioStreamPosition":309440,"audioSizeBytes":28800,"audioTimeOffset":96700000,"audioTimeSize":9000000} 
+
+.
+TTS segment #3 begins (file name: 'tts_3.wav').
+
+
+TTS segment #3 ends.'. 
+
+......
+{"type":"partial","id":"3.0","recognition":"De.","translation":"Of.","audioStreamPosition":371840,"audioSizeBytes":4160,"audioTimeOffset":116200000,"audioTimeSize":1300000} 
+
+............
+{"type":"partial","id":"3.6","recognition":"Donc, cela allait beaucoup moins.","translation":"So this was going much less.","audioStreamPosition":371840,"audioSizeBytes":34240,"audioTimeOffset":116200000,"audioTimeSize":10700000} 
+
+...........
+{"type":"final","id":"3","recognition":"Donc cela est beaucoup moins adaptée à.","translation":"So this is much less suited to.","audioStreamPosition":371840,"audioSizeBytes":60480,"audioTimeOffset":116200000,"audioTimeSize":18900000} 
+
+..
+TTS segment #4 begins (file name: 'tts_4.wav').
+
+
+TTS segment #4 ends.'. 
+
+............................
+{"type":"partial","id":"4.0","recognition":"Ce.","translation":"This.","audioStreamPosition":536320,"audioSizeBytes":3520,"audioTimeOffset":167600000,"audioTimeSize":1100000} 
+
+.........
+{"type":"partial","id":"4.2","recognition":"C'est-à-dire.","translation":"i.e..","audioStreamPosition":536320,"audioSizeBytes":16960,"audioTimeOffset":167600000,"audioTimeSize":5300000} 
+
+...........
+{"type":"partial","id":"4.10","recognition":"C'est-à-dire c'est à dire que malheureusement.","translation":"That is to say that unfortunately.","audioStreamPosition":536320,"audioSizeBytes":68160,"audioTimeOffset":167600000,"audioTimeSize":21300000} 
+
+.............
+{"type":"partial","id":"4.11","recognition":"C'est-à-dire c'est à dire que malheureusement votre point.","translation":"That is to say that unfortunately your point.","audioStreamPosition":536320,"audioSizeBytes":106560,"audioTimeOffset":167600000,"audioTimeSize":33300000} 
+
+............
+{"type":"partial","id":"4.14","recognition":"C'est-à-dire c'est à dire que malheureusement votre point de magique.","translation":"That is to say that unfortunately your point of magic.","audioStreamPosition":536320,"audioSizeBytes":122560,"audioTimeOffset":167600000,"audioTimeSize":38300000} 
+
+..
+{"type":"final","id":"4","recognition":"C'est à dire. C'est à dire que malheureusement votre point de magique.","translation":"That means. That is to say that unfortunately your point of magic.","audioStreamPosition":536320,"audioSizeBytes":127680,"audioTimeOffset":167600000,"audioTimeSize":39900000} 
+
+...
+TTS segment #5 begins (file name: 'tts_5.wav').
+
+
+TTS segment #5 ends.'. 
+
+.......
+{"type":"partial","id":"5.0","recognition":"Que.","translation":"That.","audioStreamPosition":719040,"audioSizeBytes":6400,"audioTimeOffset":224700000,"audioTimeSize":2000000} 
+
+..........
+{"type":"partial","id":"5.2","recognition":"Pragmatique.","translation":"Pragmatic.","audioStreamPosition":719040,"audioSizeBytes":16640,"audioTimeOffset":224700000,"audioTimeSize":5200000} 
+
+....
+{"type":"final","id":"5","recognition":"Pragmatique.","translation":"Pragmatic.","audioStreamPosition":719040,"audioSizeBytes":28480,"audioTimeOffset":224700000,"audioTimeSize":8900000} 
+
+.
+TTS segment #6 begins (file name: 'tts_6.wav').
+
+
+TTS segment #6 ends.'. 
+
+.............
+{"type":"partial","id":"6.0","recognition":"De.","translation":"Of.","audioStreamPosition":794880,"audioSizeBytes":19520,"audioTimeOffset":248400000,"audioTimeSize":6100000} 
+
+..........
+{"type":"partial","id":"6.1","recognition":"Où es.","translation":"Where are you?","audioStreamPosition":791040,"audioSizeBytes":42560,"audioTimeOffset":247200000,"audioTimeSize":13300000} 
+
+.........
+{"type":"partial","id":"6.2","recognition":"Où es.","translation":"Where are you?","audioStreamPosition":791040,"audioSizeBytes":58560,"audioTimeOffset":247200000,"audioTimeSize":18300000} 
+
+...........
+{"type":"partial","id":"6.3","recognition":"Où es complète.","translation":"where is complete.","audioStreamPosition":791040,"audioSizeBytes":98240,"audioTimeOffset":247200000,"audioTimeSize":30700000} 
+
+..........
+{"type":"partial","id":"6.4","recognition":"Vous.","translation":"You.","audioStreamPosition":936000,"audioSizeBytes":7680,"audioTimeOffset":292500000,"audioTimeSize":2400000} 
+
+.......................
+{"type":"partial","id":"6.5","recognition":"Parce.","translation":"Because.","audioStreamPosition":1006720,"audioSizeBytes":9600,"audioTimeOffset":314600000,"audioTimeSize":3000000} 
+
+...........
+{"type":"partial","id":"6.11","recognition":"Est-ce que tu veux faire.","translation":"Do you want to do.","audioStreamPosition":1008960,"audioSizeBytes":33920,"audioTimeOffset":315300000,"audioTimeSize":10600000} 
+
+...........
+{"type":"partial","id":"6.17","recognition":"Est-ce que tu veux savoir ce.","translation":"Do you want to know what.","audioStreamPosition":1008960,"audioSizeBytes":68160,"audioTimeOffset":315300000,"audioTimeSize":21300000} 
+
+...........
+{"type":"partial","id":"6.21","recognition":"Est-ce que tu veux savoir où.","translation":"Do you want to know where.","audioStreamPosition":1008960,"audioSizeBytes":97920,"audioTimeOffset":315300000,"audioTimeSize":30600000} 
+
+..........
+{"type":"final","id":"6","recognition":"Qu'est-ce que tu veux faire, c'est bon ?","translation":"What do you want to do, it's okay?","audioStreamPosition":1005440,"audioSizeBytes":106880,"audioTimeOffset":315300000,"audioTimeSize":33400000} 
+
+...
+TTS segment #7 begins (file name: 'tts_7.wav').
+
+
+TTS segment #7 ends.'. 
+
+.......................................................................................................................
+{"type":"partial","id":"7.1","recognition":"Off.","translation":"Off.","audioStreamPosition":1527040,"audioSizeBytes":14720,"audioTimeOffset":477200000,"audioTimeSize":4600000} 
+
+.........................................
+{"type":"partial","id":"7.3","recognition":"Il perd.","translation":"He loses.","audioStreamPosition":1662400,"audioSizeBytes":13120,"audioTimeOffset":519500000,"audioTimeSize":4100000} 
+
+.........
+{"type":"partial","id":"7.9","recognition":"Il est persuadé que c'est son parking.","translation":"He is convinced that it is his parking lot.","audioStreamPosition":1662400,"audioSizeBytes":42880,"audioTimeOffset":519500000,"audioTimeSize":13400000} 
+
+..........
+{"type":"partial","id":"7.10","recognition":"Il est persuadé que c'est son parking. Alors.","translation":"He is convinced that it is his parking lot. Then.","audioStreamPosition":1662400,"audioSizeBytes":52480,"audioTimeOffset":519500000,"audioTimeSize":16400000} 
+
+..
+{"type":"final","id":"7","recognition":"Il est persuadé que c'est son parking. Alors.","translation":"He is convinced that it is his parking lot. Then.","audioStreamPosition":1662400,"audioSizeBytes":56640,"audioTimeOffset":519500000,"audioTimeSize":17700000} 
+
+...
+TTS segment #8 begins (file name: 'tts_8.wav').
+
+
+TTS segment #8 ends.'. 
+
+........................
+{"type":"partial","id":"8.0","recognition":"Tu vas.","translation":"You're going to.","audioStreamPosition":1820480,"audioSizeBytes":8000,"audioTimeOffset":568900000,"audioTimeSize":2500000} 
+
+..........
+{"type":"partial","id":"8.4","recognition":"Tu vas te trouver.","translation":"You're going to find yourself.","audioStreamPosition":1820480,"audioSizeBytes":32000,"audioTimeOffset":568900000,"audioTimeSize":10000000} 
+
+.
+{"type":"final","id":"8","recognition":"Tu vas te trouver.","translation":"You're going to find yourself.","audioStreamPosition":1820480,"audioSizeBytes":36800,"audioTimeOffset":568900000,"audioTimeSize":11500000} 
+
+..
+TTS segment #9 begins (file name: 'tts_9.wav').
+
+
+TTS segment #9 ends.'. 
+
+......
+{"type":"partial","id":"9.0","recognition":"À.","translation":"To.","audioStreamPosition":1883520,"audioSizeBytes":5120,"audioTimeOffset":588600000,"audioTimeSize":1600000} 
+
+..........
+{"type":"partial","id":"9.4","recognition":"Avec une fois.","translation":"With one time.","audioStreamPosition":1883520,"audioSizeBytes":39360,"audioTimeOffset":588600000,"audioTimeSize":12300000} 
+
+........
+{"type":"final","id":"9","recognition":"Avec une émotion.","translation":"With an emotion.","audioStreamPosition":1883520,"audioSizeBytes":34240,"audioTimeOffset":588600000,"audioTimeSize":10700000} 
+
+..
+TTS segment #10 begins (file name: 'tts_10.wav').
+
+
+TTS segment #10 ends.'. 
+
+....
+{"type":"partial","id":"10.1","recognition":"Donc.","translation":"So.","audioStreamPosition":1957440,"audioSizeBytes":10240,"audioTimeOffset":611700000,"audioTimeSize":3200000} 
+
+..........
+{"type":"partial","id":"10.3","recognition":"Le prendre au.","translation":"Take him to the.","audioStreamPosition":1957760,"audioSizeBytes":34880,"audioTimeOffset":611800000,"audioTimeSize":10900000} 
+
+...........
+{"type":"partial","id":"10.7","recognition":"Bonjour, ça va quoi.","translation":"Hey, what's up?","audioStreamPosition":1986240,"audioSizeBytes":42240,"audioTimeOffset":620700000,"audioTimeSize":13200000} 
+
+.............
+{"type":"partial","id":"10.15","recognition":"Bonjour, ça va déranger pas plus. Je veux.","translation":"Hey, it's not going to bother any more. I want to.","audioStreamPosition":1986240,"audioSizeBytes":78400,"audioTimeOffset":620700000,"audioTimeSize":24500000} 
+
+.......
+{"type":"final","id":"10","recognition":"Bonjour, ça va déranger pas plus. Je veux un café.","translation":"Hey, it's not going to bother any more. I want a cup of coffee.","audioStreamPosition":1986240,"audioSizeBytes":100480,"audioTimeOffset":620700000,"audioTimeSize":31400000} 
+
+...
+TTS segment #11 begins (file name: 'tts_11.wav').
+
+
+TTS segment #11 ends.'. 
+
+.
+{"type":"partial","id":"11.0","recognition":"Tu.","translation":"You.","audioStreamPosition":2107840,"audioSizeBytes":3840,"audioTimeOffset":658700000,"audioTimeSize":1200000} 
+
+..........
+{"type":"partial","id":"11.4","recognition":"Le 25.","translation":"The 25th.","audioStreamPosition":2107840,"audioSizeBytes":25600,"audioTimeOffset":658700000,"audioTimeSize":8000000} 
+
+...........
+{"type":"partial","id":"11.8","recognition":"Le 25, quoi qu'il.","translation":"The 25th, whatever he.","audioStreamPosition":2107840,"audioSizeBytes":57600,"audioTimeOffset":658700000,"audioTimeSize":18000000} 
+
+...........
+{"type":"partial","id":"11.10","recognition":"Le 25 quoi que ce nouveau.","translation":"The 25 whatever this new.","audioStreamPosition":2107840,"audioSizeBytes":73280,"audioTimeOffset":658700000,"audioTimeSize":22900000} 
+
+..........
+{"type":"final","id":"11","recognition":"Le 25, quoi de nouveau.","translation":"The 25th, what's new.","audioStreamPosition":2107840,"audioSizeBytes":75520,"audioTimeOffset":658700000,"audioTimeSize":23600000} 
+
+..
+TTS segment #12 begins (file name: 'tts_12.wav').
+
+
+TTS segment #12 ends.'. 
+
+
+{"type":"partial","id":"12.0","recognition":"Le.","translation":"The.","audioStreamPosition":2244160,"audioSizeBytes":4800,"audioTimeOffset":701300000,"audioTimeSize":1500000} 
+
+..........
+{"type":"partial","id":"12.3","recognition":"L'empire, le.","translation":"The Empire, the.","audioStreamPosition":2244160,"audioSizeBytes":29440,"audioTimeOffset":701300000,"audioTimeSize":9200000} 
+
+...........
+{"type":"partial","id":"12.9","recognition":"L'empire, le mi.","translation":"The Empire, the MI.","audioStreamPosition":2244160,"audioSizeBytes":68160,"audioTimeOffset":701300000,"audioTimeSize":21300000} 
+
+..........
+{"type":"final","id":"12","recognition":"Non plus, rien.","translation":"No, nothing.","audioStreamPosition":2244160,"audioSizeBytes":80640,"audioTimeOffset":701700000,"audioTimeSize":25200000} 
+
+
+{"type":"partial","id":"13.0","recognition":"Je.","translation":"I.","audioStreamPosition":2344960,"audioSizeBytes":1920,"audioTimeOffset":732800000,"audioTimeSize":600000} 
+
+..
+TTS segment #13 begins (file name: 'tts_13.wav').
+
+
+TTS segment #13 ends.'. 
+
+..
+{"type":"partial","id":"13.3","recognition":"Le prix.","translation":"The price.","audioStreamPosition":2344960,"audioSizeBytes":16320,"audioTimeOffset":732800000,"audioTimeSize":5100000} 
+
+...........
+{"type":"partial","id":"13.8","recognition":"De rien, parce que.","translation":"of nothing, because.","audioStreamPosition":2344960,"audioSizeBytes":40320,"audioTimeOffset":732800000,"audioTimeSize":12600000} 
+
+...........
+{"type":"partial","id":"13.9","recognition":"Je n'ai rien pris.","translation":"I didn't take anything.","audioStreamPosition":2344960,"audioSizeBytes":80320,"audioTimeOffset":732800000,"audioTimeSize":25100000} 
+
+...........
+{"type":"partial","id":"13.16","recognition":"Le prix a prière de poste. La bonne méthode.","translation":"The price has prayer of post. The right method.","audioStreamPosition":2344960,"audioSizeBytes":118720,"audioTimeOffset":732800000,"audioTimeSize":37100000} 
+
+............
+{"type":"partial","id":"13.22","recognition":"Le prix a prière de poste. La bonne méthode plutôt amples.","translation":"The price has prayer of post. The good method rather ample.","audioStreamPosition":2344960,"audioSizeBytes":157120,"audioTimeOffset":732800000,"audioTimeSize":49100000} 
+
+...........
+{"type":"partial","id":"13.29","recognition":"Le prix a prière de poste. La bonne méthode plutôt remplacement réservé. Voilà.","translation":"The price has prayer of post. The correct method rather reserved replacement. 's.","audioStreamPosition":2344960,"audioSizeBytes":189120,"audioTimeOffset":732800000,"audioTimeSize":59100000} 
+
+...........
+{"type":"partial","id":"13.36","recognition":"Le prix a prière de poste. La bonne méthode plutôt remplacement réservé. Voilà maintenant, un print imprime.","translation":"The price has prayer of post. The correct method rather reserved replacement. Now, a print prints.","audioStreamPosition":2344960,"audioSizeBytes":224320,"audioTimeOffset":732800000,"audioTimeSize":70100000} 
+
+............
+{"type":"partial","id":"13.42","recognition":"Le prix a prière de poste. La bonne méthode plutôt remplacement réservé. Voilà maintenant, un print imprimer imprimer. Tu dois aller.","translation":"The price has prayer of post. The correct method rather reserved replacement. Now there's a print printed print. You have to go.","audioStreamPosition":2344960,"audioSizeBytes":264320,"audioTimeOffset":732800000,"audioTimeSize":82600000} 
+
+.......
+{"type":"final","id":"13","recognition":"Le prix a prière de poster la bonne méthode du tout remplacement réservé. Voilà maintenant imprimante Imprimerie Imprimerie.","translation":"The price has to post the correct method of the all reserved replacement. This is now printer printing printing.","audioStreamPosition":2344960,"audioSizeBytes":272960,"audioTimeOffset":732800000,"audioTimeSize":85300000} 
+
+....
+TTS segment #14 begins (file name: 'tts_14.wav').
+
+
+TTS segment #14 ends.'. 
+
+...............
+{"type":"partial","id":"14.0","recognition":"Par.","translation":"By.","audioStreamPosition":2695360,"audioSizeBytes":5760,"audioTimeOffset":842300000,"audioTimeSize":1800000} 
+
+.......
+{"type":"final","id":"14","recognition":"Poste.","translation":"Position.","audioStreamPosition":2695360,"audioSizeBytes":16640,"audioTimeOffset":842300000,"audioTimeSize":5200000} 
+
+.
+TTS segment #15 begins (file name: 'tts_15.wav').
+
+
+TTS segment #15 ends.'. 
+
+.....................................................................................................
+{"type":"partial","id":"15.0","recognition":"À.","translation":"To.","audioStreamPosition":3042560,"audioSizeBytes":5120,"audioTimeOffset":950800000,"audioTimeSize":1600000} 
+
+..........
+{"type":"partial","id":"15.4","recognition":"Alors mardi.","translation":"So Tuesday.","audioStreamPosition":3042560,"audioSizeBytes":25920,"audioTimeOffset":950800000,"audioTimeSize":8100000} 
+
+...........
+{"type":"partial","id":"15.12","recognition":"Alors mardi mardi soir et les vents.","translation":"So Tuesday night and the winds.","audioStreamPosition":3042560,"audioSizeBytes":64320,"audioTimeOffset":950800000,"audioTimeSize":20100000} 
+
+.....
+{"type":"final","id":"15","recognition":"Alors mardi soir et les vendus.","translation":"So Tuesday night and sold them.","audioStreamPosition":3042560,"audioSizeBytes":70720,"audioTimeOffset":950800000,"audioTimeSize":22100000} 
+
+..
+TTS segment #16 begins (file name: 'tts_16.wav').
+
+
+TTS segment #16 ends.'. 
+
+.
+{"type":"partial","id":"16.0","recognition":"Bon.","translation":"Good.","audioStreamPosition":3136640,"audioSizeBytes":5120,"audioTimeOffset":980200000,"audioTimeSize":1600000} 
+
+...........
+{"type":"partial","id":"16.3","recognition":"Mon nom.","translation":"My name.","audioStreamPosition":3136640,"audioSizeBytes":17920,"audioTimeOffset":980200000,"audioTimeSize":5600000} 
+
+............
+{"type":"partial","id":"16.10","recognition":"Mon nom. Ça fait une heure que vous être.","translation":"My name. You've been here for an hour.","audioStreamPosition":3136640,"audioSizeBytes":69440,"audioTimeOffset":980200000,"audioTimeSize":21700000} 
+
+............
+{"type":"partial","id":"16.13","recognition":"Mon nom. Ça fait une heure que vous être utile pour.","translation":"My name. It's been an hour for you to be useful.","audioStreamPosition":3136640,"audioSizeBytes":107840,"audioTimeOffset":980200000,"audioTimeSize":33700000} 
+
+..........
+{"type":"partial","id":"16.16","recognition":"Mon nom. Ça fait une heure que vous être utile pour changer de chaîne un moment.","translation":"My name. It's been an hour since you've been useful to change the channel for a while.","audioStreamPosition":3136640,"audioSizeBytes":137920,"audioTimeOffset":980200000,"audioTimeSize":43100000} 
+
+
+{"type":"final","id":"16","recognition":"Mon nom. Ça fait une heure que vous être utile pour changer de chaîne un moment.","translation":"My name. It's been an hour since you've been useful to change the channel for a while.","audioStreamPosition":3136640,"audioSizeBytes":140480,"audioTimeOffset":980200000,"audioTimeSize":43900000} 
+
+...
+TTS segment #17 begins (file name: 'tts_17.wav').
+
+.
+TTS segment #17 ends.'. 
+
+.........
+{"type":"partial","id":"17.0","recognition":"Ce.","translation":"This.","audioStreamPosition":3314560,"audioSizeBytes":3840,"audioTimeOffset":1035800000,"audioTimeSize":1200000} 
+
+..........
+{"type":"partial","id":"17.4","recognition":"Sérénité tous des.","translation":"Serenity all of them.","audioStreamPosition":3314560,"audioSizeBytes":35520,"audioTimeOffset":1035800000,"audioTimeSize":11100000} 
+
+..........
+{"type":"partial","id":"17.8","recognition":"Sérénité qui se dégage de ce tableau.","translation":"Serenity that emerges from this painting.","audioStreamPosition":3314560,"audioSizeBytes":59840,"audioTimeOffset":1035800000,"audioTimeSize":18700000} 
+
+............
+{"type":"partial","id":"17.14","recognition":"Sérénité qui se dégage de ce tableau dont certaines.","translation":"Serenity that emerges from this painting, some of which.","audioStreamPosition":3314560,"audioSizeBytes":105920,"audioTimeOffset":1035800000,"audioTimeSize":33100000} 
+
+.....
+{"type":"final","id":"17","recognition":"Sérénité qui se dégage de ce tableau comme une certaine violence.","translation":"Serenity that emerges from this picture as a certain violence.","audioStreamPosition":3314560,"audioSizeBytes":120000,"audioTimeOffset":1035800000,"audioTimeSize":37500000} 
+
+...
+TTS segment #18 begins (file name: 'tts_18.wav').
+
+
+TTS segment #18 ends.'. 
+
+.....
+{"type":"partial","id":"18.0","recognition":"Champ.","translation":"Field.","audioStreamPosition":3464000,"audioSizeBytes":7040,"audioTimeOffset":1082500000,"audioTimeSize":2200000} 
+
+.......
+{"type":"final","id":"18","recognition":"Chance.","translation":"Chance.","audioStreamPosition":3464000,"audioSizeBytes":14080,"audioTimeOffset":1082500000,"audioTimeSize":4400000} 
+
+.
+TTS segment #19 begins (file name: 'tts_19.wav').
+
+
+TTS segment #19 ends.'. 
+
+....
+{"type":"partial","id":"19.0","recognition":"C'est.","translation":"This is.","audioStreamPosition":3501120,"audioSizeBytes":7040,"audioTimeOffset":1094100000,"audioTimeSize":2200000} 
+
+...........
+{"type":"partial","id":"19.5","recognition":"C'est touchant de temps, je pense.","translation":"It's a touch of time, I think.","audioStreamPosition":3501120,"audioSizeBytes":34240,"audioTimeOffset":1094100000,"audioTimeSize":10700000} 
+
+........
+{"type":"final","id":"19","recognition":"C'est touchant de temps. Je trouve sur un fond blanc.","translation":"It's a touch of time. I found it on a white background.","audioStreamPosition":3501120,"audioSizeBytes":54400,"audioTimeOffset":1094100000,"audioTimeSize":17000000} 
+
+..
+TTS segment #20 begins (file name: 'tts_20.wav').
+
+
+TTS segment #20 ends.'. 
+
+........
+{"type":"partial","id":"20.0","recognition":"Que.","translation":"That.","audioStreamPosition":3597440,"audioSizeBytes":4160,"audioTimeOffset":1124200000,"audioTimeSize":1300000} 
+
+...........
+{"type":"partial","id":"20.6","recognition":"Que nous avons combien 100.","translation":"That we have how much 100.","audioStreamPosition":3597440,"audioSizeBytes":35200,"audioTimeOffset":1124200000,"audioTimeSize":11000000} 
+
+...
+{"type":"final","id":"20","recognition":"Que nous avons combien ça ?","translation":"How much do we have?","audioStreamPosition":3597440,"audioSizeBytes":35200,"audioTimeOffset":1124200000,"audioTimeSize":11000000} 
+
+.
+TTS segment #21 begins (file name: 'tts_21.wav').
+
+
+TTS segment #21 ends.'. 
+
+....
+{"type":"partial","id":"21.0","recognition":"Okay.","translation":"Okay.","audioStreamPosition":3656960,"audioSizeBytes":5440,"audioTimeOffset":1142800000,"audioTimeSize":1700000} 
+
+..........
+{"type":"partial","id":"21.5","recognition":"Quoi qu'il a 30 €1000.","translation":"Whatever it has €30 1000.","audioStreamPosition":3656960,"audioSizeBytes":31040,"audioTimeOffset":1142800000,"audioTimeSize":9700000} 
+
+..........
+{"type":"partial","id":"21.9","recognition":"Quoi qu'il a 30000 euro. Je peux vérifier si vous.","translation":"Whatever he has 30000 euro. I can check if you.","audioStreamPosition":3656960,"audioSizeBytes":70080,"audioTimeOffset":1142800000,"audioTimeSize":21900000} 
+
+......
+{"type":"final","id":"21","recognition":"Quoi qu'il a 30000 euro. Je peux vérifier s'il voulait.","translation":"Whatever he has 30000 euro. I can check if he wanted to.","audioStreamPosition":3656960,"audioSizeBytes":81920,"audioTimeOffset":1142800000,"audioTimeSize":25600000} 
+
+...
+TTS segment #22 begins (file name: 'tts_22.wav').
+
+
+TTS segment #22 ends.'. 
+
+......Background thread terminating...
+Connection closed...

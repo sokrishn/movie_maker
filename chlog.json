@@ -1,0 +1,86 @@
+{"type":"partial","id":"0.0","recognition":"他.","translation":"He.","audioStreamPosition":40000,"audioSizeBytes":5440,"audioTimeOffset":12500000,"audioTimeSize":1700000} 
+{"type":"final","id":"0","recognition":"他叫什么?","translation":"What's his name?","audioStreamPosition":39680,"audioSizeBytes":20480,"audioTimeOffset":12500000,"audioTimeSize":6400000} 
+{"type":"partial","id":"1.0","recognition":"谢谢.","translation":"Thank you.","audioStreamPosition":372160,"audioSizeBytes":30720,"audioTimeOffset":116300000,"audioTimeSize":9600000} 
+{"type":"partial","id":"1.1","recognition":"手.","translation":"Hand.","audioStreamPosition":1023680,"audioSizeBytes":10560,"audioTimeOffset":319900000,"audioTimeSize":3300000} 
+{"type":"partial","id":"1.2","recognition":"手电.","translation":"Flashlight.","audioStreamPosition":1023680,"audioSizeBytes":16960,"audioTimeOffset":319900000,"audioTimeSize":5300000} 
+{"type":"final","id":"1","recognition":"手电.","translation":"Flashlight.","audioStreamPosition":1023680,"audioSizeBytes":21760,"audioTimeOffset":319900000,"audioTimeSize":6800000} 
+{"type":"partial","id":"2.0","recognition":"我.","translation":"I.","audioStreamPosition":1085760,"audioSizeBytes":6400,"audioTimeOffset":339300000,"audioTimeSize":2000000} 
+{"type":"partial","id":"2.4","recognition":"我不能出门的.","translation":"I can't go out.","audioStreamPosition":1085760,"audioSizeBytes":30400,"audioTimeOffset":339300000,"audioTimeSize":9500000} 
+{"type":"partial","id":"2.7","recognition":"我不能触摸的东西永远.","translation":"I can't touch things forever.","audioStreamPosition":1085760,"audioSizeBytes":70080,"audioTimeOffset":339300000,"audioTimeSize":21900000} 
+{"type":"final","id":"2","recognition":"我不能触摸的东西,没有永远.","translation":"I can't touch things, not forever.","audioStreamPosition":1085760,"audioSizeBytes":72960,"audioTimeOffset":339300000,"audioTimeSize":22800000} 
+{"type":"partial","id":"3.0","recognition":"是.","translation":"Is.","audioStreamPosition":1246400,"audioSizeBytes":8640,"audioTimeOffset":389500000,"audioTimeSize":2700000} 
+{"type":"partial","id":"3.5","recognition":"是不一再地说.","translation":"is not repeated.","audioStreamPosition":1246400,"audioSizeBytes":37440,"audioTimeOffset":389500000,"audioTimeSize":11700000} 
+{"type":"final","id":"3","recognition":"是不一再的爽.","translation":"is not the same as the cool.","audioStreamPosition":1246400,"audioSizeBytes":43840,"audioTimeOffset":389500000,"audioTimeSize":13700000} 
+{"type":"partial","id":"4.1","recognition":"85.","translation":"$number.","audioStreamPosition":1313600,"audioSizeBytes":16320,"audioTimeOffset":410500000,"audioTimeSize":5100000} 
+{"type":"partial","id":"4.2","recognition":"85级.","translation":"Level 85.","audioStreamPosition":1313600,"audioSizeBytes":24320,"audioTimeOffset":410500000,"audioTimeSize":7600000} 
+{"type":"final","id":"4","recognition":"85级.","translation":"Level 85.","audioStreamPosition":1313600,"audioSizeBytes":30080,"audioTimeOffset":410500000,"audioTimeSize":9400000} 
+{"type":"partial","id":"5.0","recognition":"里面.","translation":"Inside.","audioStreamPosition":1367680,"audioSizeBytes":8320,"audioTimeOffset":427400000,"audioTimeSize":2600000} 
+{"type":"partial","id":"5.4","recognition":"里面什么也没有?","translation":"There's nothing in there?","audioStreamPosition":1367680,"audioSizeBytes":32320,"audioTimeOffset":427400000,"audioTimeSize":10100000} 
+{"type":"final","id":"5","recognition":"里面什么也没有?","translation":"There's nothing in there?","audioStreamPosition":1367680,"audioSizeBytes":37120,"audioTimeOffset":427400000,"audioTimeSize":11600000} 
+{"type":"partial","id":"6.0","recognition":"把.","translation":"The.","audioStreamPosition":1457280,"audioSizeBytes":7040,"audioTimeOffset":455400000,"audioTimeSize":2200000} 
+{"type":"partial","id":"6.3","recognition":"把手伸开.","translation":"Put your hands out.","audioStreamPosition":1457280,"audioSizeBytes":26240,"audioTimeOffset":455400000,"audioTimeSize":8200000} 
+{"type":"final","id":"6","recognition":"把手伸开.","translation":"Put your hands out.","audioStreamPosition":1457280,"audioSizeBytes":35520,"audioTimeOffset":455400000,"audioTimeSize":11100000} 
+{"type":"partial","id":"7.0","recognition":"用.","translation":"With.","audioStreamPosition":1514880,"audioSizeBytes":8320,"audioTimeOffset":473400000,"audioTimeSize":2600000} 
+{"type":"partial","id":"7.4","recognition":"拥有的是一起.","translation":"Have is together.","audioStreamPosition":1514880,"audioSizeBytes":32320,"audioTimeOffset":473400000,"audioTimeSize":10100000} 
+{"type":"final","id":"7","recognition":"拥有的是一起.","translation":"Have is together.","audioStreamPosition":1514880,"audioSizeBytes":41280,"audioTimeOffset":473400000,"audioTimeSize":12900000} 
+.{"type":"partial","id":"8.0","recognition":"我.","translation":"I.","audioStreamPosition":1599680,"audioSizeBytes":8000,"audioTimeOffset":499900000,"audioTimeSize":2500000} 
+{"type":"partial","id":"8.1","recognition":"200.","translation":"$number.","audioStreamPosition":1599680,"audioSizeBytes":13760,"audioTimeOffset":499900000,"audioTimeSize":4300000} 
+{"type":"partial","id":"8.5","recognition":"这是听不.","translation":"This is not listening.","audioStreamPosition":1635840,"audioSizeBytes":31040,"audioTimeOffset":511200000,"audioTimeSize":9700000} 
+{"type":"partial","id":"8.10","recognition":"这是几部戏没进去都去.","translation":"It's a few plays.","audioStreamPosition":1635840,"audioSizeBytes":64000,"audioTimeOffset":511200000,"audioTimeSize":20000000} 
+{"type":"partial","id":"8.13","recognition":"这是几部戏没进去,都是虚幻的干.","translation":"This is a few plays did not go in, are illusory dry.","audioStreamPosition":1635840,"audioSizeBytes":108800,"audioTimeOffset":511200000,"audioTimeSize":34000000} 
+{"type":"partial","id":"8.16","recognition":"这是几部戏没进去,都是虚幻的干餐饮.","translation":"This is a few plays did not go in, are illusory dry dining.","audioStreamPosition":1635840,"audioSizeBytes":122560,"audioTimeOffset":511200000,"audioTimeSize":38300000} 
+{"type":"final","id":"8","recognition":"这是几部戏没进去,都是虚幻的干餐饮.","translation":"This is a few plays did not go in, are illusory dry dining.","audioStreamPosition":1599680,"audioSizeBytes":164480,"audioTimeOffset":511200000,"audioTimeSize":51400000} 
+{"type":"partial","id":"9.0","recognition":"能干.","translation":"Capable.","audioStreamPosition":1797120,"audioSizeBytes":10240,"audioTimeOffset":561600000,"audioTimeSize":3200000} 
+{"type":"partial","id":"9.6","recognition":"能感觉到他的真实.","translation":"Can feel his true.","audioStreamPosition":1797120,"audioSizeBytes":40320,"audioTimeOffset":561600000,"audioTimeSize":12600000} 
+{"type":"final","id":"9","recognition":"你能感觉到他的真心吗?","translation":"Can you feel his heart?","audioStreamPosition":1789440,"audioSizeBytes":61440,"audioTimeOffset":561600000,"audioTimeSize":19200000} 
+{"type":"partial","id":"10.0","recognition":"有的.","translation":"Some.","audioStreamPosition":1936000,"audioSizeBytes":8960,"audioTimeOffset":605000000,"audioTimeSize":2800000} 
+{"type":"partial","id":"10.4","recognition":"你的手脚冰凉.","translation":"Your hands and feet are cold.","audioStreamPosition":1936000,"audioSizeBytes":29440,"audioTimeOffset":605000000,"audioTimeSize":9200000} 
+{"type":"final","id":"10","recognition":"你的手脚冰凉两个.","translation":"Your hands and feet are two cold.","audioStreamPosition":1936000,"audioSizeBytes":44160,"audioTimeOffset":605000000,"audioTimeSize":13800000} 
+{"type":"partial","id":"11.1","recognition":"而且.","translation":"And.","audioStreamPosition":2009600,"audioSizeBytes":10240,"audioTimeOffset":628000000,"audioTimeSize":3200000} 
+{"type":"partial","id":"11.5","recognition":"而且连到连去了.","translation":"and connected.","audioStreamPosition":2009600,"audioSizeBytes":34880,"audioTimeOffset":628000000,"audioTimeSize":10900000} 
+{"type":"partial","id":"11.7","recognition":"而且连到连球的音节.","translation":"And even the syllables of the ball.","audioStreamPosition":2009600,"audioSizeBytes":50880,"audioTimeOffset":628000000,"audioTimeSize":15900000} 
+{"type":"final","id":"11","recognition":"而且连到连球的理解.","translation":"And even the understanding of the ball.","audioStreamPosition":2009600,"audioSizeBytes":56960,"audioTimeOffset":628000000,"audioTimeSize":17800000} 
+{"type":"partial","id":"12.0","recognition":"每.","translation":"Every.","audioStreamPosition":2088320,"audioSizeBytes":5120,"audioTimeOffset":652600000,"audioTimeSize":1600000} 
+{"type":"partial","id":"12.1","recognition":"每一次.","translation":"Every a Times.","audioStreamPosition":2088320,"audioSizeBytes":14720,"audioTimeOffset":652600000,"audioTimeSize":4600000} 
+{"type":"partial","id":"12.4","recognition":"每一次我感觉都.","translation":"Every time I feel like.","audioStreamPosition":2088320,"audioSizeBytes":46720,"audioTimeOffset":652600000,"audioTimeSize":14600000} 
+{"type":"partial","id":"12.8","recognition":"每一次我感觉都不敢出门.","translation":"Every time I feel afraid to go out.","audioStreamPosition":2088320,"audioSizeBytes":69120,"audioTimeOffset":652600000,"audioTimeSize":21600000} 
+{"type":"final","id":"12","recognition":"每一次我感觉都不敢出门.","translation":"Every time I feel afraid to go out.","audioStreamPosition":2088320,"audioSizeBytes":74240,"audioTimeOffset":652600000,"audioTimeSize":23200000} 
+{"type":"partial","id":"13.0","recognition":"小.","translation":"Small.","audioStreamPosition":2212160,"audioSizeBytes":11200,"audioTimeOffset":691300000,"audioTimeSize":3500000} 
+{"type":"partial","id":"13.4","recognition":"手里.","translation":"Hands.","audioStreamPosition":2212160,"audioSizeBytes":22080,"audioTimeOffset":691300000,"audioTimeSize":6900000} 
+{"type":"final","id":"13","recognition":"受骗.","translation":"Deceived.","audioStreamPosition":2212160,"audioSizeBytes":23360,"audioTimeOffset":691300000,"audioTimeSize":7300000} 
+{"type":"partial","id":"14.0","recognition":"讲.","translation":"Speak.","audioStreamPosition":2304960,"audioSizeBytes":8960,"audioTimeOffset":720300000,"audioTimeSize":2800000} 
+{"type":"partial","id":"14.4","recognition":"讲互利互补.","translation":"Talk about mutual benefit and complementarity.","audioStreamPosition":2304960,"audioSizeBytes":32960,"audioTimeOffset":720300000,"audioTimeSize":10300000} 
+{"type":"partial","id":"14.6","recognition":"讲互利互补咱们.","translation":"Talk about mutual complementarity.","audioStreamPosition":2304960,"audioSizeBytes":48960,"audioTimeOffset":720300000,"audioTimeSize":15300000} 
+{"type":"partial","id":"14.11","recognition":"讲互利互补咱们人性里何尝.","translation":"Talk about mutual benefit and complementarity.","audioStreamPosition":2304960,"audioSizeBytes":111680,"audioTimeOffset":720300000,"audioTimeSize":34900000} 
+{"type":"partial","id":"14.12","recognition":"讲互利互补咱们人性里何尝不是.","translation":"Talk about mutual complementarity we are not in human nature.","audioStreamPosition":2304960,"audioSizeBytes":120960,"audioTimeOffset":720300000,"audioTimeSize":37800000} 
+{"type":"final","id":"14","recognition":"讲互利互补苍凉人心里何尝不是.","translation":"Talk about mutually beneficial and complementary desolate people's heart is not.","audioStreamPosition":2304960,"audioSizeBytes":126720,"audioTimeOffset":720300000,"audioTimeSize":39600000} 
+{"type":"partial","id":"15.0","recognition":"到.","translation":"To.","audioStreamPosition":2454080,"audioSizeBytes":8320,"audioTimeOffset":766900000,"audioTimeSize":2600000} 
+{"type":"partial","id":"15.1","recognition":"保健.","translation":"Health.","audioStreamPosition":2454080,"audioSizeBytes":16320,"audioTimeOffset":766900000,"audioTimeSize":5100000} 
+{"type":"partial","id":"15.5","recognition":"到监狱长穷.","translation":"To the warden poor.","audioStreamPosition":2454080,"audioSizeBytes":39360,"audioTimeOffset":766900000,"audioTimeSize":12300000} 
+{"type":"partial","id":"15.7","recognition":"到监狱长穷人情味.","translation":"To the warden the poor human touch.","audioStreamPosition":2454080,"audioSizeBytes":77760,"audioTimeOffset":766900000,"audioTimeSize":24300000} 
+{"type":"partial","id":"15.12","recognition":"到监狱长穷人情里何尝不是.","translation":"To the warden the poor love is not.","audioStreamPosition":2454080,"audioSizeBytes":104320,"audioTimeOffset":766900000,"audioTimeSize":32600000} 
+{"type":"final","id":"15","recognition":"到监狱长穷人情里何尝不是.","translation":"To the warden the poor love is not.","audioStreamPosition":2454080,"audioSizeBytes":110080,"audioTimeOffset":766900000,"audioTimeSize":34400000} 
+{"type":"partial","id":"16.0","recognition":"我.","translation":"I.","audioStreamPosition":2630720,"audioSizeBytes":5760,"audioTimeOffset":822100000,"audioTimeSize":1800000} 
+{"type":"partial","id":"16.6","recognition":"我诚心诚意的.","translation":"I'm sincere.","audioStreamPosition":2630720,"audioSizeBytes":36160,"audioTimeOffset":822100000,"audioTimeSize":11300000} 
+{"type":"partial","id":"16.12","recognition":"我诚心诚意的情景脚臭.","translation":"My feet stink in my sincerity.","audioStreamPosition":2630720,"audioSizeBytes":70720,"audioTimeOffset":822100000,"audioTimeSize":22100000} 
+{"type":"partial","id":"16.15","recognition":"我诚信成绩的话,请您请教出来,就打给.","translation":"I am honest results, please ask, call.","audioStreamPosition":2630720,"audioSizeBytes":105920,"audioTimeOffset":822100000,"audioTimeSize":33100000} 
+{"type":"partial","id":"16.21","recognition":"我诚信成绩的话,请您请教出来去带给我们更多的烦恼.","translation":"I am honest results, please ask out to bring us more trouble.","audioStreamPosition":2630720,"audioSizeBytes":140160,"audioTimeOffset":822100000,"audioTimeSize":43800000} 
+{"type":"final","id":"16","recognition":"我诚信成绩的话,请您请教出来,却带给我们更多的烦恼.","translation":"My integrity results, please ask, but bring us more trouble.","audioStreamPosition":2630720,"audioSizeBytes":148480,"audioTimeOffset":822100000,"audioTimeSize":46400000} 
+{"type":"partial","id":"17.2","recognition":"压抑.","translation":"Repressed.","audioStreamPosition":2802240,"audioSizeBytes":16320,"audioTimeOffset":875700000,"audioTimeSize":5100000} 
+{"type":"partial","id":"17.8","recognition":"压抑指挥棒感情更.","translation":"Repressed baton feelings more.","audioStreamPosition":2802240,"audioSizeBytes":48320,"audioTimeOffset":875700000,"audioTimeSize":15100000} 
+{"type":"partial","id":"17.11","recognition":"压抑指挥棒感情更强烈.","translation":"Repressed the baton feeling more strongly.","audioStreamPosition":2802240,"audioSizeBytes":64320,"audioTimeOffset":875700000,"audioTimeSize":20100000} 
+{"type":"final","id":"17","recognition":"压抑指挥棒感情更强烈.","translation":"Repressed the baton feeling more strongly.","audioStreamPosition":2802240,"audioSizeBytes":66880,"audioTimeOffset":875700000,"audioTimeSize":20900000} 
+{"type":"partial","id":"18.0","recognition":"我.","translation":"I.","audioStreamPosition":2901440,"audioSizeBytes":7360,"audioTimeOffset":906700000,"audioTimeSize":2300000} 
+{"type":"partial","id":"18.4","recognition":"我也组织部两国.","translation":"I also have a organization organization.","audioStreamPosition":2901440,"audioSizeBytes":36800,"audioTimeOffset":906700000,"audioTimeSize":11500000} 
+{"type":"partial","id":"18.7","recognition":"我也组织部两国的欲望.","translation":"I also have the desire of the two countries.","audioStreamPosition":2901440,"audioSizeBytes":49600,"audioTimeOffset":906700000,"audioTimeSize":15500000} 
+{"type":"final","id":"18","recognition":"我也组织不掉我的欲望.","translation":"I can't organize my desires.","audioStreamPosition":2901440,"audioSizeBytes":56960,"audioTimeOffset":906700000,"audioTimeSize":17800000} 
+{"type":"partial","id":"19.0","recognition":"我.","translation":"I.","audioStreamPosition":3001280,"audioSizeBytes":6080,"audioTimeOffset":937900000,"audioTimeSize":1900000} 
+{"type":"partial","id":"19.4","recognition":"我想跟你在一起.","translation":"I want to be with you.","audioStreamPosition":3001280,"audioSizeBytes":36160,"audioTimeOffset":937900000,"audioTimeSize":11300000} 
+{"type":"final","id":"19","recognition":"我想跟你在一起.","translation":"I want to be with you.","audioStreamPosition":3001280,"audioSizeBytes":39040,"audioTimeOffset":937900000,"audioTimeSize":12200000} 
+{"type":"partial","id":"20.0","recognition":"就.","translation":"On.","audioStreamPosition":3151680,"audioSizeBytes":7360,"audioTimeOffset":984900000,"audioTimeSize":2300000} 
+{"type":"partial","id":"20.3","recognition":"就像讲座.","translation":"Like a lecture.","audioStreamPosition":3151680,"audioSizeBytes":29760,"audioTimeOffset":984900000,"audioTimeSize":9300000} 
+{"type":"partial","id":"20.4","recognition":"就像讲座转.","translation":"Like a lecture.","audioStreamPosition":3151680,"audioSizeBytes":58560,"audioTimeOffset":984900000,"audioTimeSize":18300000} 
+{"type":"partial","id":"20.5","recognition":"就像讲座.","translation":"Like a lecture.","audioStreamPosition":3151680,"audioSizeBytes":31360,"audioTimeOffset":984900000,"audioTimeSize":9800000} 
+{"type":"partial","id":"20.9","recognition":"就像讲主张反也没感觉到.","translation":"It's like saying that you don't feel it.","audioStreamPosition":3151680,"audioSizeBytes":151360,"audioTimeOffset":984900000,"audioTimeSize":47300000} 
+{"type":"partial","id":"20.12","recognition":"就像讲主张反也没感觉到一种平静.","translation":"It's like saying that there's no peace of mind.","audioStreamPosition":3151680,"audioSizeBytes":173760,"audioTimeOffset":984900000,"audioTimeSize":54300000} 
+{"type":"final","id":"20","recognition":"就像讲主张反也没感觉到一种瓶颈.","translation":"It's like saying that you don't feel a bottleneck.","audioStreamPosition":3151680,"audioSizeBytes":182400,"audioTimeOffset":984900000,"audioTimeSize":57000000} 
